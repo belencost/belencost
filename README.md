@@ -1,4 +1,4 @@
-<h1 align="center">Bienvenidos/as 👋 </h1>
+<h2 align="center">Bienvenidos/as 👋 </h2>
 <h4 align="center">Mi nombre es Belén Costantín y actualmente soy estudiante de la carrera de Ingeniería en Sistemas de Información y becaria de los laboratorios de informática de la facultad 🚀</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belencost&label=Profile%20views&color=0e75b6&style=flat" alt="belencost" /> </p>
