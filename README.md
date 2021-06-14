@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belencost&label=Profile%20views&color=0e75b6&style=flat" alt="belencost" /> </p>
 
-- 🌱 En este momento estoy aprendiendo Java y realizando ejercicios base para amigarme con el lenguaje [Info-Java](https://github.com/belencost/Info-Java)
+##### - 🌱 En este momento estoy aprendiendo Java y realizando ejercicios base para amigarme con el lenguaje [Info-Java](https://github.com/belencost/Info-Java)
 
-- ⚡ Próximamente: **Portfolio en Html+Css+Js y un ChatBot CuentaCuentos en Telegram**
+##### - ⚡ Próximamente: **Portfolio en Html+Css+Js y un ChatBot CuentaCuentos en Telegram**
 
-- 👨‍💻 También estoy aprendiendo python y reforzando POO [Central Teléfonica [Desde Consola]](https://github.com/belencost/CentralTelefonica)
+##### - 👨‍💻 También estoy aprendiendo python y reforzando POO [Central Teléfonica [Desde Consola]](https://github.com/belencost/CentralTelefonica)
 
-- 🤝 Hace un tiempo colaboré con un grupo de trabajo en un Turnero web [Brillo total](https://github.com/belencost/brillototal)
+##### - 🤝 Hace un tiempo colaboré con un grupo de trabajo en un Turnero web [Brillo total](https://github.com/belencost/brillototal)
 
-- 📝 También escribo poesía y recientemente publiqué mi primer libro [https://www.libreriacontexto.com.ar/productos/te-de-acuarelas/](https://www.libreriacontexto.com.ar/productos/te-de-acuarelas/)
+##### - 📝 También escribo poesía y recientemente publiqué mi primer libro [https://www.libreriacontexto.com.ar/productos/te-de-acuarelas/](https://www.libreriacontexto.com.ar/productos/te-de-acuarelas/)
 
-- 📫 Como contactarme **belencostantin@gmail.com**
+##### - 📫 Como contactarme **belencostantin@gmail.com**
 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
