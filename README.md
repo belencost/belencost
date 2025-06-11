@@ -1,13 +1,9 @@
 <h2 align="center">Bienvenidos/as 👋 </h2>
-<h4 align="center">Mi nombre es Belén Costantín y actualmente soy Analista de Procesos y estudiante avanzada en la carrera de Ingeniería en sistemas de información 🚀</h4>
+<h4 align="center">Mi nombre es Belén Costantín y actualmente soy Analista Funcional SAP y estudiante avanzada en la carrera de Ingeniería en sistemas de información 🚀</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belencost&label=Profile%20views&color=0e75b6&style=flat" alt="belencost" /> </p>
 
 ###### - ⚡ 
-
-###### - 👨‍💻 También estoy aprendiendo python y reforzando POO [Central Teléfonica [Desde Consola]](https://github.com/belencost/CentralTelefonica)
-
-###### - 🤝 Hace un tiempo colaboré con un grupo de trabajo en un Turnero web [Brillo total](https://github.com/belencost/brillototal)
 
 ###### - 📫 Como contactarme **belencostantin@gmail.com**
 
